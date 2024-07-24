@@ -100,7 +100,7 @@ h1 {
 
 /* デモボタンのスタイル */
 .demo-button {
-  display: flex;
+  display: block;
   align-items: center;
   background-color: #ffffff;
   border: 1px solid #343a40;
@@ -111,6 +111,7 @@ h1 {
   color: #343a40;
   transition: transform 0.3s;
   height: 80px;
+  white-space: nowrap;
 }
 
 .demo-button:hover {
