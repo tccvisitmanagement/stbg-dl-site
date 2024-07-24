@@ -13,3 +13,6 @@
 - CSS3
 - Bootstrap 4.5.2
 - Lottie
+
+# 公開ページ
+https://tccvisitmanagement.github.io/stbg-dl-site/
